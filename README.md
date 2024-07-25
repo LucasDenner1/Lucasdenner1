@@ -1,6 +1,7 @@
 ## Oi, me chamo Lucas Denner 👋
 
 🔭 Atualmente estou trabalhando com Full-Stack
+
 🌱 Estou aprendendo Laravel
 
 <table>
