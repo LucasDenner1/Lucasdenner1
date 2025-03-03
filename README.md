@@ -2,7 +2,7 @@
 
 🔭 Atualmente estou trabalhando com Full-Stack
 
-🌱 Estou aprendendo Spring
+📕 Estou aprendendo Laravel
 
 <table>
   <tr style="border: none;">
