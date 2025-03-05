@@ -51,6 +51,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-%23ffffff?style=flat&logo=laravel&logoColor=red)
-
-https://img.shields.io/badge/Laravel-2e2e2e?style=flat&logo=laravel&logoColor=white
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
