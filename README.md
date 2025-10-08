@@ -2,7 +2,7 @@
 
 🔭 Atualmente estou trabalhando com Full-Stack
 
-📕 Estou aprendendo Laravel
+📕 Estou aprendendo Spring Boot 🌱
 
 <table>
   <tr style="border: none;">
@@ -41,7 +41,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucs_d3nn3r/)
 
 ### 🛠️ Skills
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -52,3 +51,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-%23ffffff?style=flat&logo=laravel&logoColor=red)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FF8C00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
