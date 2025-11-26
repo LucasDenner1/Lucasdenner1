@@ -5,7 +5,7 @@
 
 ---
 
-<h2 align="left">A little about me 💫</h2>
+<h2 align="left">A little about me 🥷</h2>
 
 My name is **Lucas Denner**, and I am currently studying **Computer Science**.  
 Since childhood, I’ve always been passionate about technology and development — which naturally led me into the world of programming.  
