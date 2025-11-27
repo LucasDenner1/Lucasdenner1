@@ -29,42 +29,17 @@ Today, I am mainly focusing on improving my skills in **backend development**, e
 
 ### 📊 GitHub Status
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=Lucasdenner1&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=Lucasdenner1&show_icons=true&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=Lucasdenner1&show_icons=true&title_color=C00102&icon_color=C00102"
-          alt="Estatísticas do GitHub de Lucasdenner1"
-        />
-      </picture>
+<table width="100%">
+  <tr>
+    <td width="42%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDenner1&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" width="100%" />
     </td>
-    <td style="border: none;">
-      <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdenner1&layout=compact&theme=dark&title_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdenner1&layout=compact&title_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdenner1&layout=compact&title_color=C00102"
-          alt="Linguagens mais usadas por Lucasdenner1"
-        />
-      </picture>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LucasDenner1&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" width="100%" />
     </td>
   </tr>
 </table>
+
 
 ---
 
