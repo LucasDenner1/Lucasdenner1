@@ -17,13 +17,13 @@ Today, I am mainly focusing on improving my skills in **backend development**, e
 
 ### Technologies I use 🧑🏻‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,github,git,postman,docker,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,mysql,postgres,github,git,postman,docker,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### Languages ​​I use 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,php,laravel,java,spring,mysql,postgres,git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,php,laravel,java,spring)](https://skillicons.dev)
 
 ---
 
