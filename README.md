@@ -27,22 +27,6 @@ Today, I am mainly focusing on improving my skills in **backend development**, e
 
 ---
 
-### 📊 GitHub Status
-
-<table width="100%">
-  <tr>
-    <td width="42%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDenner1&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LucasDenner1&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" width="100%" />
-    </td>
-  </tr>
-</table>
-
-
----
-
 ### 📚 Learning...
 - Backend development  
 - Java + Spring Boot  
