@@ -28,7 +28,5 @@ Today, I am mainly focusing on improving my skills in **backend development**, e
 ---
 
 ### 📚 Learning...
-- Backend development  
-- Java + Spring Boot  
-- TypeScript  
-- API development  
+- Java + Spring Boot
+- Angular
